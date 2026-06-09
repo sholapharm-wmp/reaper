@@ -1,15 +1,28 @@
-# Sholapharm | Cybersecurity Reaper
+<h1 align="center">Hi 👋, I'm Sholapharm</h1>
+<h3 align="center">Cybersecurity Student | Network Security + Ethical Hacking</h3>
 
-Hi, I'm exploring the cybersecurity world. This portfolio shows my hands-on labs with Cisco, VLANs, ACLs, and network security and more to come 
+<p align="center">
+<a href="https://sholapharm-wmp.github.io">View My Portfolio</a> | 
+<a href="mailto:sholapharm@gmail.com">Contact Me</a>
+</p>
 
-### 🔥 Featured Projects
-- **Cisco Topology Lab**: 1 router,1 switche,1 server  4 VLANs with external PC simulating the internet
-- **Network Security & VLAN Segmentation**: Router-on-a-Stick + Extended ACLs
+---
 
-### 🛠 Skills
-Cisco Packet Tracer, VLANs, ACLs, OSPF, Network Security, Linux,ethical Hacking,cyber threat management 
+### 🚀 About Me
+Cybersecurity Analyst focused on Ethical Hacking, Cisco networking, VLAN segmentation, ACLs, and pen testing basics. 
+All labs built in Cisco Packet Tracer.
 
-### 📧 Contact
-[sholapharm@gmail.cpm]
+### 🛠 Tech Stack
+`Cisco` `VLANs` `OSPF` `ACLs` `Linux` `Wireshark` `Python`
 
-View my portfolio:(https://sholapharm-wmp.github.io)
+### 📊 Featured Projects
+| Project | Description | Link |
+| --- | --- | --- |
+| Cisco Topology Lab | 1 Router, 1 Switche, 4 VLANs + Acl | [View Code](link-to-repo) |
+| Network Security Lab | Router-on-a-Stick + Extended ACLs | [View Portfolio](https://sholapharm-wmp.github.io) |
+
+### 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=sholapharm-wmp&show_icons=true&theme=dark)
+
+---
+**Open to job offers at any cybersecurity roles**
