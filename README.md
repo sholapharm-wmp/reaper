@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doyen </h1>
-<h3 align="center">Cybersecurity Analyst | Network Security + Ethical Hacking</h3>
+<h3 align="center">Aspiring Cybersecurity professional/Linux/networking/Ethical Hacking/GRC.</h3>
 
 <p align="center">
 <a href="https://sholapharm-wmp.github.io">View My Portfolio</a> | 
